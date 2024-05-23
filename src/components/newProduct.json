@@ -1,0 +1,76 @@
+[
+      {
+        "category": "Mobile",
+        "name": "Apple",
+        "model": "iPhone 13",
+        "price": 799
+      },
+      {
+        "category": "Mobile",
+        "name": "Samsung",
+        "model": "Galaxy S21",
+        "price": 699
+      },
+      {
+        "category": "Mobile",
+        "name": "Google",
+        "model": "Pixel 6",
+        "price": 599
+      },
+      {
+        "category": "Laptop",
+        "name": "Dell",
+        "model": "XPS 13",
+        "price": 999
+      },
+      {
+        "category": "Laptop",
+        "name": "Apple",
+        "model": "MacBook Air",
+        "price": 999
+      },
+      {
+        "category": "Laptop",
+        "name": "HP",
+        "model": "Spectre x360",
+        "price": 1199
+      },
+      {
+        "category": "Computer",
+        "name": "Apple",
+        "model": "iMac",
+        "price": 1299
+      },
+      {
+        "category": "Computer",
+        "name": "Dell",
+        "model": "Inspiron",
+        "price": 599
+      },
+      {
+        "category": "Computer",
+        "name": "HP",
+        "model": "Pavilion",
+        "price": 499
+      },
+      {
+        "category": "Fridges",
+        "name": "LG",
+        "model": "InstaView",
+        "price": 1999
+      },
+      {
+        "category": "Fridges",
+        "name": "Samsung",
+        "model": "Family Hub",
+        "price": 2799
+      },
+      {
+        "category": "Fridges",
+        "name": "Whirlpool",
+        "model": "WRS325SDHZ",
+        "price": 1399
+      }
+    
+    ]
+  
